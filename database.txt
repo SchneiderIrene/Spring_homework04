@@ -1,0 +1,6 @@
+1;Laptop;Asos;1499.99
+2;Smartphone;Samsung;899.99
+3;Computer;HP;2999.99
+4;Laptop;Samsung;899.99
+5;Smartphone;Motorola;499.99
+6;Smartwatch;Samsung;399.99
